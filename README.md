@@ -1,7 +1,7 @@
 Bank Management System
 📌 Project Overview
 
-Karavali Bank Management System is a frontend-based DBMS project developed using HTML, CSS, and JavaScript. It simulates real-world banking operations and demonstrates core Database Management System concepts such as CRUD Operations, SQL Queries, Stored Procedures, and Triggers through an interactive banking dashboard.
+ Bank Management System is a frontend-based DBMS project developed using HTML, CSS, and JavaScript. It simulates real-world banking operations and demonstrates core Database Management System concepts such as CRUD Operations, SQL Queries, Stored Procedures, and Triggers through an interactive banking dashboard.
 
 The application provides a user-friendly interface for managing customers, branches, accounts, transactions, loans, and employees without requiring a backend database.
 
