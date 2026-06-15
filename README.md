@@ -118,7 +118,7 @@ Branch-wise Deposits
 Loan Distribution Analysis
 🚀 How to Run
 Download or Clone the Repository
-git clone https://github.com/yourusername/karavali-bank-management-system.git
+git clone https://sharadhi-654.github.io/Banking._.Management._.-ystem/
 Open the Project Folder
 Run
 index.html
